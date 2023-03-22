@@ -14,7 +14,7 @@
   </h1>
 </div>
 
-## About me 
+## ⛄️🎓About me 
 📚 Currently a second-year student pursuing a Computer Science Bachelor Degree at Babeș-Bolyai University [Courses](https://github.com/TudorMurariu/UBB-INFO) <br> <br>
 📃 Learn more about my experience through my resume: [Resume](https://github.com/TudorMurariu/CV-stuff/blob/main/CV_MURARIU%20TUDOR%20CRISTIAN.pdf) <br>
 
