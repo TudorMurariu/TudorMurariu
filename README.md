@@ -14,10 +14,10 @@
   </h1>
 </div>
 
-## ⛄️About me 
+# ⛄️ About me 
 📚 Currently a second-year student pursuing a Computer Science Bachelor Degree at Babeș-Bolyai University [Courses](https://github.com/TudorMurariu/UBB-INFO) <br> <br>
 📃 Learn more about my experience through my resume: [Resume](https://github.com/TudorMurariu/CV-stuff/blob/main/CV_MURARIU%20TUDOR%20CRISTIAN.pdf) <br>
 
-## :fire: My Stats 
+# :fire: My Stats 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=TudorMurariu&theme=dark&background=000000)](https://git.io/streak-stats) <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TudorMurariu&theme=dark&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
