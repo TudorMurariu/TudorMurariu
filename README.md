@@ -7,10 +7,10 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://www.instagram.com/tudor.mw/">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram Badge"/>
+    <img src="https://img.shields.io/badge/Instagram-orange?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
   <br>
-  <img src="https://komarev.com/ghpvc/?username=TudorMurariu&style=flat-square&color=%231DA1F2.svg" alt="view counter"/>
+  <img src="https://komarev.com/ghpvc/?username=TudorMurariu&style=flat-square&color=%23E4405F" alt="view counter"/>
   <h1>
   &nbsp;&nbsp;hey there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
