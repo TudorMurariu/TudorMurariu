@@ -1,3 +1,4 @@
+# BOYCOTT CREIC !!!
 - 👋 Hi, I’m @TudorMurariu
 <div id="header" align="center">
   <img src="https://user-images.githubusercontent.com/30391543/222987029-a6f65b87-1823-4b47-9f2a-8ad3b7aba436.png"/>
@@ -27,3 +28,5 @@
 # :fire: My Stats 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=TudorMurariu&theme=dark&background=000000)](https://git.io/streak-stats) <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TudorMurariu&theme=dark&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
+
+# BOYCOTT CREIC !!!
