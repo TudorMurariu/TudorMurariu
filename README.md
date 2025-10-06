@@ -17,6 +17,8 @@
   </h1>
 </div>
 
+# BOYCOTT CREIC !!!
+
 # ⛄️ About me 
 📚 Currently I'm a student pursuing a Master's Degree in High Performance Computing and Big Data Analytics at Babeș-Bolyai University <br> <br>
 🎓 Graduated Computer Science Bachelor Degree at Babeș-Bolyai University ([Courses](https://github.com/TudorMurariu/UBB-INFO)) <br> <br>
